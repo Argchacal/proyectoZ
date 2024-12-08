@@ -1040,7 +1040,7 @@ PrefabInstance:
     - target: {fileID: 6672254081650945178, guid: 010e84b548a5c524f9c74db316216bbc, type: 3}
       propertyPath: m_Icon
       value: 
-      objectReference: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
+      objectReference: {fileID: 0}
     - target: {fileID: 6672254081650945178, guid: 010e84b548a5c524f9c74db316216bbc, type: 3}
       propertyPath: m_Name
       value: player
@@ -1048,6 +1048,10 @@ PrefabInstance:
     - target: {fileID: 6672254081650945178, guid: 010e84b548a5c524f9c74db316216bbc, type: 3}
       propertyPath: m_Layer
       value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 6672254081650945178, guid: 010e84b548a5c524f9c74db316216bbc, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 6672254081650945178, guid: 010e84b548a5c524f9c74db316216bbc, type: 3}
       propertyPath: m_TagString
